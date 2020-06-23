@@ -1,0 +1,2 @@
+model_checkpoint_path: "bilstm_hosipital_v20"
+all_model_checkpoint_paths: "bilstm_hosipital_v20"
